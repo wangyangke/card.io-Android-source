@@ -11,3 +11,5 @@ General Guidelines
 * **Android version support.** The library should support versions of Android that have more than 5% distribution, as measured by [Google's dashboard](https://developer.android.com/about/dashboards/index.html). No versions should be dropped without good reason.
 * **Architecture support.** Scanning should support ARMv7a, with and without NEON vector instruction support. Other architectures may be added.
 * **Testing.** Test both with the `buffalo` demo app, and with the included `SampleApp`. Test at least on one physical device and report the device model & OS tested on.
+Error:(11, 0) CreateProcess error=2, 系统找不到指定的文件。
+<a href="openFile:C:\Users\wangyangke\Desktop\card.io-Android-source-master\card.io\build.gradle">Open File</a>
